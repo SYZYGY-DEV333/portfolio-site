@@ -1,0 +1,5 @@
+Embed snippet:
+http://www.w3schools.com/howto/howto_html_include.asp
+
+Image code:
+http://www.w3schools.com/css/css_image_gallery.asp
