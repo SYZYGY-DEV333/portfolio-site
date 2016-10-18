@@ -1,3 +1,3 @@
 # portfolio-site
 My Drafting Portfolio Site.
-[sobelportfolio.tk](sobelportfolio.tk)
+[sobelportfolio.tk](http://sobelportfolio.tk)
