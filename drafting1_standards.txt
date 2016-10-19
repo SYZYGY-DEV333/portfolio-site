@@ -1,0 +1,29 @@
+Units, Essential Standards, and Indicators
+Drafting 1
+
+
+1.00 - Understand Fundamental Concepts and Trends of Drafting
+	1.01 - Understand BIM, and Rapid Prototyping
+	1.02 - Understand Industrial Design, Sustainable Design, and LEED
+	1.03 - Understand Career Options
+	
+2.00 - Understand the Ideation Process
+
+3.00 - Apply sketching skills and techniques (Architectural / Engineering)
+	3.01 - Apply Rough Sketching (lettering for clarity, capital letters)
+	3.02 - Apply 2D Sketching (Single and Multiple View)
+	3.03 - Apply 3D Sketching (Pictorials - isometric and oblique)
+
+4.00 - Apply CAD User Skills (with use of AutoCAD or Solidworks)
+	4.01 - Apply procedures for working with the User Interface (navigation tools)
+	4.02 - Apply procedures for creating drawings (coordinates and draw tools)
+	4.03 - Apply procedures for manipulating objects (grips, object selection, drawing aids)
+	4.04 - Apply procedures for working with the drawing organization and inquiry command (layers)
+	4.05 - Apply procedures for altering objects (modifying)
+	4.06 - Apply procedures for working with layouts (templates, viewports)
+	4.07 - Apply procedures for annotating the drawing (adding text)
+	4.08 - Apply procedures for dimensioning
+	4.09 - Apply procedures for hatching objects (drawing enhancements)
+	4.10 - Apply procedures for working with reusable content (blocks)
+	4.11 - Apply procedures for creating additional drawing objects (polylines, splines, ellipses)
+	4.12 - Apply procedures for plotting the drawing
