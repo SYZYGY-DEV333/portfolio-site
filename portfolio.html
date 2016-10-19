@@ -8,10 +8,21 @@
 	<meta name="keywords" content="" />
 	<meta name="description" content="" />
 	<link href="style.css" rel="stylesheet">
-	<script src="http://www.w3schools.com/lib/w3data.js"></script>
 </head>
 
 <body>
+	
+<script type="text/javascript">
+function loadFileIntoElement(filePath, elementSelector) {
+	var request = new XMLHttpRequest();
+	request.addEventListener("load", function() {
+		var fileContents = this.responseText;
+		document.querySelector(elementSelector).innerHTML = fileContents;
+	});
+	request.open("GET", filePath);
+	request.send();
+}
+</script>
 
 <div class="wrapper">
 
@@ -35,9 +46,8 @@
 			<main class="content">
 				<h2>Portfolio</h2>
 				<div w3-include-html="gallery.html"></div>
-				<script>
-					w3IncludeHTML();
-				</script>
+				<script type="text/javascript">loadFileIntoElement('path/to/file.html', 'placeholder');</script>
+				<placeholder />
 			</main><!-- .content -->
 		</div><!-- .container-->
 
